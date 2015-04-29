@@ -4,9 +4,9 @@
 > PlumYaml integrates [Symfony Yaml](https://github.com/symfony/yaml) into Plum. Plum is a data
 processing pipeline for PHP.
 
-[![Build Status](https://img.shields.io/travis/plumphp/plum-collection.svg?style=flat)](https://travis-ci.org/plumphp/plum-collection)
-[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/plumphp/plum-collection.svg?style=flat)](https://scrutinizer-ci.com/g/plumphp/plum-collection/?branch=master)
-[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/plumphp/plum-collection.svg?style=flat)](https://scrutinizer-ci.com/g/plumphp/plum-collection/?branch=master)
+[![Build Status](https://img.shields.io/travis/plumphp/plum-yaml.svg?style=flat)](https://travis-ci.org/plumphp/plum-yaml)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/plumphp/plum-yaml.svg?style=flat)](https://scrutinizer-ci.com/g/plumphp/plum-yaml/?branch=master)
+[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/plumphp/plum-yaml.svg?style=flat)](https://scrutinizer-ci.com/g/plumphp/plum-yaml/?branch=master)
 
 Developed by [Florian Eckerstorfer](https://florian.ec) in Vienna, Europe.
 
