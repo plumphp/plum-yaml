@@ -1,9 +1,10 @@
 <img src="https://florian.ec/img/plum/logo.png" alt="Plum">
 ====
 
-> PlumYaml integrates [Symfony Yaml](https://github.com/symfony/yaml) into Plum. Plum is a data
+> PlumYaml integrates [Symfony Yaml](https://github.com/symfony/yaml) component into Plum. Plum is a data
 processing pipeline for PHP.
 
+[![Latest Version](https://img.shields.io/packagist/v/plumphp/plum-yaml.svg)](https://packagist.org/packages/plumphp/plum-yaml)
 [![Build Status](https://img.shields.io/travis/plumphp/plum-yaml.svg?style=flat)](https://travis-ci.org/plumphp/plum-yaml)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/plumphp/plum-yaml.svg?style=flat)](https://scrutinizer-ci.com/g/plumphp/plum-yaml/?branch=master)
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/plumphp/plum-yaml.svg?style=flat)](https://scrutinizer-ci.com/g/plumphp/plum-yaml/?branch=master)
@@ -45,7 +46,9 @@ $parseConverter->convert('foo: bar'); // -> ["foo" => "bar"]
 Change Log
 ----------
 
-*No version released yet.*
+### Version 0.1 (17 May 2015)
+
+- Initial release
 
 
 License
