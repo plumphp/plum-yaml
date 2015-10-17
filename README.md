@@ -1,5 +1,6 @@
-<img src="https://florian.ec/img/plum/logo.png" alt="Plum">
-====
+<h1 align="center">
+    <img src="http://cdn.florian.ec/plum-logo.svg" alt="Plum" width="300">
+</h1>
 
 > PlumYaml integrates [Symfony Yaml](https://github.com/symfony/yaml) component into Plum. Plum is a data
 processing pipeline for PHP.
@@ -26,10 +27,10 @@ Usage
 -----
 
 Please refer to the [Plum documentation](https://github.com/plumphp/plum/blob/master/docs/index.md) for more
-information about using Plum.
+information about using Plum in general.
 
-PlumYaml contains two converters. `YamlDumpConverter` converts an array into YAML and `YamlParseConverter` converts
-YAML into an array.
+PlumYaml contains two converters. `Plum\PlumYaml\YamlDumpConverter` converts an array into YAML and
+`Plum\PlumYaml\YamlParseConverter` converts YAML into an array.
 
 ```php
 use Plum\PlumYaml\YamlDumpConverter;
