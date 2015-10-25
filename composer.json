@@ -1,14 +1,14 @@
 {
     "name":        "plumphp/plum-yaml",
     "description": "PlumYaml integrates Symfony Yaml component into Plum.",
+    "keywords":    ["plum", "yaml", "import", "export"],
     "license":     "MIT",
-    "authors":     [
-        {
-            "name":  "Florian Eckerstorfer",
-            "email": "florian@eckerstorfer.co"
-        }
-    ],
+    "authors":     [{
+        "name":  "Florian Eckerstorfer",
+        "email": "florian@eckerstorfer.co"
+    }],
     "require":     {
+        "php":          ">=5.5",
         "plumphp/plum": "~0.2",
         "symfony/yaml": "~2.6"
     },
@@ -18,8 +18,6 @@
         "mikey179/vfsStream": "~1.4"
     },
     "autoload":    {
-        "psr-4": {
-            "Plum\\PlumYaml\\": "src"
-        }
+        "psr-4": {"Plum\\PlumYaml\\": "src"}
     }
 }
