@@ -1,14 +1,12 @@
 <?php
 
-
 namespace Plum\PlumYaml;
 
 use PHPUnit_Framework_TestCase;
 
 /**
- * YamlParseConverterTest
+ * YamlParseConverterTest.
  *
- * @package   Plum\PlumYaml
  * @author    Florian Eckerstorfer <florian@eckerstorfer.co>
  * @copyright 2015 Florian Eckerstorfer
  * @group     unit
