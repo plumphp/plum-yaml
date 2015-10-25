@@ -6,9 +6,8 @@ use Plum\Plum\Converter\ConverterInterface;
 use Symfony\Component\Yaml\Yaml;
 
 /**
- * YamlConverter
+ * YamlConverter.
  *
- * @package   Plum\PlumYaml
  * @author    Florian Eckerstorfer <florian@eckerstorfer.co>
  * @copyright 2015 Florian Eckerstorfer
  */
