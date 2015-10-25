@@ -9,6 +9,7 @@ processing pipeline for PHP.
 [![Build Status](https://img.shields.io/travis/plumphp/plum-yaml.svg?style=flat)](https://travis-ci.org/plumphp/plum-yaml)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/plumphp/plum-yaml.svg?style=flat)](https://scrutinizer-ci.com/g/plumphp/plum-yaml/?branch=master)
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/plumphp/plum-yaml.svg?style=flat)](https://scrutinizer-ci.com/g/plumphp/plum-yaml/?branch=master)
+[![StyleCI](https://styleci.io/repos/34803441/shield)](https://styleci.io/repos/34803441)
 
 Developed by [Florian Eckerstorfer](https://florian.ec) in Vienna, Europe.
 
